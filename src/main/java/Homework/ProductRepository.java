@@ -21,7 +21,7 @@ public class ProductRepository {
                 new Product(2, "bread", 120),
                 new Product(3, "orange", 130),
                 new Product(4, "potato", 30),
-                new Product(5, "apple", 50)
+                new Product(5, "sugar", 50)
         ));
     }
 
